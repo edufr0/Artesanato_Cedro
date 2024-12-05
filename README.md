@@ -30,11 +30,12 @@ pnpm dev
 bun dev
 ```
 
-Adicione um arquivo .env com os seguintes comandos:
+## Adicione um arquivo .env a pasta SRC
 
-BASE_URL=http://localhost:3000/
+Adicione as seguintes informações ao arquivo:
 
-TOKEN_SECRET=jarvan4
+1 - BASE_URL=http://localhost:3000/
+2 - TOKEN_SECRET=jarvan4
 
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
