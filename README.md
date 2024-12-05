@@ -34,8 +34,8 @@ bun dev
 
 Adicione as seguintes informações ao arquivo:
 
-1 - BASE_URL=http://localhost:3000/
-2 - TOKEN_SECRET=jarvan4
+- BASE_URL=http://localhost:3000/
+- TOKEN_SECRET=jarvan4
 
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
