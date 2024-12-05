@@ -4,8 +4,8 @@ Este é um projeto [Next.js](https://nextjs.org) criado com [`create-next-app`](
 
 Primeiro, clone o repositório:
 ```bash
-git clone https://github.com/caioalmeida12/artesanato-municipal
-cd artesanato-municipal
+git clone https://github.com/edufr0/Artesanato_Cedro
+cd Artesanato_Cedro
 ```
 
 Em seguida, instale as dependências:
@@ -29,6 +29,12 @@ pnpm dev
 # ou
 bun dev
 ```
+
+Adicione um arquivo .env com os seguintes comandos:
+
+BASE_URL=http://localhost:3000/
+
+TOKEN_SECRET=jarvan4
 
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
